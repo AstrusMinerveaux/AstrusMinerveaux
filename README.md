@@ -5,7 +5,7 @@
 - Website = https://astrus.live/
 - Link in Bio = https://bio.astrus.live/
 
-#### Social Media Platforms:
+#### II. Social Media Platforms:
 - Blusky = https://bsky.app/profile/astrus.live
 - Pixelfed = https://pixelfed.social/astrus
 - TikTok = https://tiktok.com/@astrusminerveaux
