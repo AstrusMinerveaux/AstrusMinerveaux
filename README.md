@@ -10,3 +10,6 @@
 - Pixelfed = https://pixelfed.social/astrus
 - TikTok = https://tiktok.com/@astrusminerveaux
 - Substack = https://substack.com/@astrus
+
+#### III. Marketplaces:
+- Personal Store = https://boutique.astrus.live/
